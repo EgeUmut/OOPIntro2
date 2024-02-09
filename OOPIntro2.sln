@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPIntro2", "OOPIntro2\OOPIntro2.csproj", "{FB83DBB8-3E77-4633-944D-404C953CE5EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB83DBB8-3E77-4633-944D-404C953CE5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB83DBB8-3E77-4633-944D-404C953CE5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB83DBB8-3E77-4633-944D-404C953CE5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB83DBB8-3E77-4633-944D-404C953CE5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EE877CD-15B5-49CB-9A47-0150A9797254}
+	EndGlobalSection
+EndGlobal
